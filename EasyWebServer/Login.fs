@@ -1,4 +1,4 @@
-module EasyLogin.test
+module EasyWebServer.Login
 
 open System
 open EasySerJson
