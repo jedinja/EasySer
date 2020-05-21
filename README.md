@@ -22,3 +22,12 @@ let Test = fac.CreateEntity<TestModel> TEST_COLLECTION
 ```
 
 Now you have several functions on Test to save and extract data in the working directory
+
+# EasyWebServer
+
+Common components needed to start and run a REST webserver prototype on top of Suave. 
+
+Combined with EasySer gives the power to have your fully working app server in few hours.
+
+The Login module is using EasySer under the hood. 
+
